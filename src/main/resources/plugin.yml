@@ -1,0 +1,5 @@
+name: pureplugin
+version: '${project.version}'
+main: me.pureheroky.pureplugin.Pureplugin
+api-version: '1.18'
+website: https://0xpure.com
